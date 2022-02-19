@@ -6,7 +6,7 @@ const secEl = document.getElementById('sec');
 
 
 
-const newYears = '17 Aug 2021';
+const newYears = '17 Aug 2022';
 
 function countdown() {
     const newYearsDate = new Date(newYears);
